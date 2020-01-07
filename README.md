@@ -58,7 +58,7 @@ You can rename the current file by clicking the file name in the navigation bar 
 - Load saved data from Google Drive
 - Classify tweets
 
-
+![Classification](https://github.com/engali94/Twitter-Account-Analysis/blob/master/assets/classification.png)
 ## Analyzing followers
 
 ## Analyzing following 
