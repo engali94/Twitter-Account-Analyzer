@@ -29,7 +29,7 @@ Follow the popup link and complete the autuorization  process
 
 #### Login
 In this section you  need to get your Twitter API  credentials then  load Twitter API secrets from an external file
-
+``` python
     secrets = json.loads(open(path + 'secrets.json').read())
     consumer_key = secrets['consumer_key']
     consumer_secret = secrets['consumer_secret']
@@ -38,7 +38,7 @@ In this section you  need to get your Twitter API  credentials then  load Twitte
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_token_secret)
     api = tweepy.API(auth)
-
+```
 ####  Helper Functions
 -  `save_json(file_name, file_content)`: Helper function to save data into a JSON file.
 -  `file_name`: the name of the data file you want to save on your Google Drive
