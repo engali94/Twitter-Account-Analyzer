@@ -6,7 +6,7 @@ Using various Python libraries such as Pandas, tweetPy, JSON ans matplotLib to t
 # Setup
 
 #### Open Google Colab and import the required Libs
-
+``` python
     from google.colab import drive # to mount Google Drive to Colab notebook
     import tweepy # Python wrapper around Twitter API
     import json
@@ -16,14 +16,15 @@ Using various Python libraries such as Pandas, tweetPy, JSON ans matplotLib to t
     from datetime import datetime
     import time
     import matplotlib.pyplot as plt
-
+```
 #### Mounting Google Drive
 
 create a new folder name it `dataset` then another inside it with `twitter_analysis` **Yo can change the directory as you like**
-
+``` python
     drive.mount('/content/gdrive')
     path = './gdrive/My Drive/datasets/twitter_analysis/'
 Follow the popup link and complete the autuorization  process
+```
 
 #  Twitter Data Collection
 
