@@ -68,5 +68,5 @@ You can rename the current file by clicking the file name in the navigation bar 
 
 
 # About The Author
-- [blog](alihilal.com)
+- [blog](alihilal.com/projects)
 - [Twitter](https://twitter.com/alihilal94)
