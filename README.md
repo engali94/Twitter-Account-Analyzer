@@ -1,6 +1,6 @@
 # Twitter Account Data Analysis
 
-Using various Python libraries such as Pandas, tweetPy, JSON ans matplotLib to take a sneak peek on your Twitter account using Google Colab.
+Using various Python libraries such as Pandas, tweetPy, JSON and matplotLib to take a sneak peek on your Twitter account using Google Colab.
 
 
 # Setup
