@@ -47,13 +47,12 @@ In this section you  need to get your Twitter API  credentials then  load Twitte
 -  `limit_handled(cursor, list_name)`  Helper function to handle twitter API rate limit.
 
 #### Data Collection Functions
--   `get_all_tweets(screen_name)` : elper function to get all tweets for a specified user and write it to a csv file.
+-   `get_all_tweets(screen_name)` : Helper function to get all tweets for a specified user and write it to a csv file.
 - `todays_stats(dict_name)` :  Helper function to get today's numbers of followers and friends and store them into a JSON file.
 - `get_followers()`:  Helper function to load follower objects into a list and save them into a JSON file.
 - `get_friends()`:  Load friends into list
 
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
 
 # Analyzing tweets
 - Load saved data from Google Drive
