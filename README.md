@@ -23,7 +23,7 @@ create a new folder name it `dataset` then another inside it with `twitter_analy
 ``` python
     drive.mount('/content/gdrive')
     path = './gdrive/My Drive/datasets/twitter_analysis/'
-Follow the popup link and complete the autuorization  process
+    #Follow the popup link and complete the autuorization  process
 ```
 
 #  Twitter Data Collection
