@@ -59,13 +59,15 @@ In this section you  need to get your Twitter API  credentials then  load Twitte
 - Classify tweets
 
 ![Classification](https://github.com/engali94/Twitter-Account-Analysis/blob/master/assets/classification.png)
-## Analyzing followers
 
-## Analyzing following 
+# Other Features 
+ - Analyzing followers
 
-## Analyzing History
+ -  Analyzing following 
+
+ -  Analyzing History
 
 
-# About The Author
+## About The Author
 - [blog](https://www.alihilal.com/blog)
 - [Twitter](https://twitter.com/alihilal94)
